@@ -13,7 +13,7 @@ Abaixo um exemplo de exercicio simples realizado durante a Aula</p>
 
 <h2>Imprima na tela os numeros pares existentes entre 0 e 100.</h2>
 
-<h3 align="center">let i = 0
+<h3>let i = 0
 while(i<=100){
     let resto = i%2
     
