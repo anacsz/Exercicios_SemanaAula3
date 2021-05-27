@@ -25,3 +25,5 @@ while(i<=100){
 </h3>
 
 Vamos praticar???!!
+
+<img src="img01.jpg" alt="alt text" width="200"/>
